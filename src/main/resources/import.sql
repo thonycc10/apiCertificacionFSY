@@ -1,0 +1,3 @@
+INSERT INTO public.persona (calificacion, cargo, dni, estaca, id_padre, nombre, password, telefono, vista) VALUES ('Pendiente', 'consejero', 70580564, 'independencia', null, 'Anthony Carrasco', '123123', 969348078, '0');
+INSERT INTO public.persona (calificacion, cargo, dni, estaca, id_padre, nombre, password, telefono, vista) VALUES ('Pendiente', 'auxi', 70580562, 'independencia', null, 'Bryan Car', '123123', 969348078, '0');
+INSERT INTO public.persona (calificacion, cargo, dni, estaca, id_padre, nombre, password, telefono, vista) VALUES ('Pendiente', 'consejero', 70580561, 'independencia', null, 'Juan Car', '123123', 969348078, '0');
